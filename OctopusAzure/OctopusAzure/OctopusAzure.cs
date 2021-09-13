@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 
 namespace OctopusAzure
 {
-    public static class Function1
+    public static class OctopusAzure
     {
         [FunctionName("Function1")]
         public static async Task<IActionResult> Run(
